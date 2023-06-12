@@ -1,0 +1,19 @@
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\INF-322\Desktop\clase07092022\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zia OS\Desktop\segundo_examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
